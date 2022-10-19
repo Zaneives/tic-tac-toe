@@ -9,15 +9,10 @@ import { Component, Input, OnInit } from '@angular/core';
   `,
   styles: [`
     button {      
-      /* width: max-content; */
       width: 100%;
       height: 100%;
-      /* border: 0px; */
-      padding: 0;
-      margin: 0;
       font-size: 2em;
       line-height: 1px;
-      transition: 1s;
     }
     .grey {
       background-color: palegreen;
