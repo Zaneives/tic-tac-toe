@@ -12,18 +12,21 @@ import { Component, Input, OnInit } from '@angular/core';
       /* width: max-content; */
       width: 100%;
       height: 100%;
+      /* border: 0px; */
+      padding: 0;
+      margin: 0;
+      font-size: 2em;
+      line-height: 1px;
+      transition: 1s;
     }
     .grey {
-      background-color: goldenrod;
-      font-size: 30px;
+      background-color: palegreen;
     }
     .blue {
       background-color: blue;
-      font-size: 60px;
     }
     .green {
-      background-color: green;
-      font-size: 60px;
+      background-color: orange;
     }
   `]
 })
