@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "jozenones-project": {
+      "hosting": {
+        "tic-tac-toe": [
+          "jozenones-project"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "jozenones-project"
+  }
+}

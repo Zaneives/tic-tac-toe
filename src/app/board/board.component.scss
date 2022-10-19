@@ -1,0 +1,21 @@
+
+
+main {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-gap: 0px;
+}
+
+app-square {
+    border: 1px gray solid;
+    height: 200px;    
+}
+
+.new-game-button {
+    padding: 1rem;
+    border-radius: 10px;
+    background-color: burlywood;
+    position: relative;
+    left: 14rem;
+    margin: 1rem;
+}
