@@ -111,8 +111,8 @@
             "prerender": false,
             "ssr": false,
             "browserTarget": "tic-tac-toe:build:production",
-            "firebaseProject": "jozenones-project",
-            "firebaseHostingSite": "jozenones-project"
+            "firebaseProject": "tictactoe-zives",
+            "firebaseHostingSite": "tictactoe-zives"
           }
         }
       }

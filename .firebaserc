@@ -1,14 +1,14 @@
 {
-  "targets": {
-    "jozenones-project": {
+  "targets": {    
+    "tictactoe-zives": {
       "hosting": {
         "tic-tac-toe": [
-          "jozenones-project"
+          "tictactoe-zives"
         ]
       }
     }
   },
   "projects": {
-    "default": "jozenones-project"
+    "default": "tictactoe-zives"
   }
 }
